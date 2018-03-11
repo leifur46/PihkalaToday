@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Klooven/PihkalaToday.git"
+    "url": "git+https://github.com/Tutrox/PihkalaToday.git"
   },
   "author": "Tutrox",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/Klooven/PihkalaToday/issues"
+    "url": "https://github.com/Tutrox/PihkalaToday/issues"
   },
-  "homepage": "https://github.com/Klooven/PihkalaToday#readme",
+  "homepage": "https://github.com/Tutrox/PihkalaToday#readme",
   "dependencies": {
     "autoprefixer": "^8.1.0",
     "babel-core": "^6.26.0",
