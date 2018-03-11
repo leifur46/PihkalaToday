@@ -1,6 +1,7 @@
 # PihkalaToday
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/Tutrox/PihkalaToday.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/Tutrox/PihkalaToday.svg?branch=master)](https://travis-ci.org/Tutrox/PihkalaToday)
 
 *Events in the world, today, from different years.*
 
