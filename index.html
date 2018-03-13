@@ -2,9 +2,26 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>GH</title>
+    <title>Tänään</title>
+    <link rel="stylesheet" href="today.min.css">
+    <script src="today.js" charset="utf-8"></script>
+    <script src="https://use.edgefonts.net/source-sans-pro:n3,n4,i4,n6,n7.js"></script>
   </head>
   <body>
-    <h1>GitHub pages set up</h1>
+    <div class="today-container d-flex flex-column p-3">
+      <div class="pb-3">
+        <h3 class="text-uppercase">Tänään <small class="align-middle"><a class="text-muted" href="https://pihkala.info">Pihkala.info</a></small></h3>
+        <hr>
+      </div>
+      <div data-today="init">
+        <!-- today will add events here -->
+      </div>
+      <div class="mt-auto">
+        <button type="button" class="btn btn-link" data-goto="prev">&laquo; Edellinen päivä</button>
+        &#124; <button type="button" class="btn btn-link" data-goto="today">Tänään</button>
+        &#124; <button type="button" class="btn btn-link" data-goto="next">Seuraava päivä &raquo;</button>
+        <span class="text-muted align-bottom" data-date="init"></span>
+      </div>
+    </div>
   </body>
 </html>
