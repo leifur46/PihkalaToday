@@ -12,6 +12,7 @@ deploy:
   github-token: $GH_TOKEN
   keep-history: true
   local-dir: www
+  fqdn: today.pihkala.info
   on:
     branch: master
 env:
