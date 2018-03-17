@@ -9,7 +9,7 @@ export var names = {
     {data: "Ruut; Rut"}
   ],
   "5.1": [
-    {data: "Leea ,Lea"}
+    {data: "Leea, Lea"}
   ],
   "6.1": [
     {data: "Harri; Harry, Harriet"}
@@ -354,7 +354,7 @@ export var names = {
     {data: "Teijo; Henning"}
   ],
   "30.4": [
-    {data: "Mirja, Mirva, Mira, Miia, Mirjami,Mirka, Mirkka, Mirjam, Mia"}
+    {data: "Mirja, Mirva, Mira, Miia, Mirjami, Mirka, Mirkka, Mirjam, Mia"}
   ],
   "1.5": [
     {data: "Vappu, Valpuri; Valborg"}
@@ -852,7 +852,7 @@ export var names = {
     {data: "Aarre, Arto; Valfrid"}
   ],
   "13.10": [
-    {data: "Taina, Tanja, Taija; Ebba,Ebbe"}
+    {data: "Taina, Tanja, Taija; Ebba, Ebbe"}
   ],
   "14.10": [
     {data: "Elsa, Else, Elsi, Ilsi"}
@@ -981,7 +981,7 @@ export var names = {
     {data: "Lempi, Lemmikki, Sivi; Siv"}
   ],
   "25.11": [
-    {data: "Katri, Kaisa, Kaija, Katriina, Kati, Kaisu, Riina, Katariina, Katja; Karin, Kajsa etc"}
+    {data: "Katri, Kaisa, Kaija, Katriina, Kati, Kaisu, Riina, Katariina, Katja; Karin, Kajsa..."}
   ],
   "26.11": [
     {data: "Sisko; Dagmar"}
@@ -993,7 +993,7 @@ export var names = {
     {data: "Heini; Sten"}
   ],
   "29.11": [
-    {data: "Aimo;  Edgar"}
+    {data: "Aimo; Edgar"}
   ],
   "30.11": [
     {data: "Antti, Antero, Atte; Anders, Andreas, Andrea"}
