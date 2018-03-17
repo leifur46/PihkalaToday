@@ -11,7 +11,8 @@
     "css:prefix": "postcss --use autoprefixer --replace \"www/today.css\"",
     "css:minify": "cleancss --level 1 --output www/today.min.css www/today.css",
     "css:lint": "stylelint --syntax scss \"app/today.scss\"",
-    "serve": "http-server www"
+    "dev:js": "rollup -c rollup.config.dev.js",
+    "dev:serve": "http-server www"
   },
   "repository": {
     "type": "git",
