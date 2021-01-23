@@ -1,18 +1,13 @@
 {
   "name": "pihkalatoday",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Events in the world, today, from different years.",
   "scripts": {
     "test": "npm-run-all build:*",
-    "build:css": "npm-run-all --sequential css:*",
+    "build:css": "scss-powertools app/today.scss www/today.css -p",
     "build:js": "rollup -c",
     "build:site": "cp app/index.html www/",
-    "css:build": "node-sass --output-style expanded --precision 6 app/today.scss www/today.css",
-    "css:prefix": "postcss --use autoprefixer --replace \"www/today.css\"",
-    "css:minify": "cleancss --level 1 --output www/today.min.css www/today.css",
-    "css:lint": "stylelint --syntax scss \"app/today.scss\"",
-    "dev:js": "rollup -c rollup.config.dev.js",
-    "dev:serve": "http-server www"
+    "dev": "serve www"
   },
   "repository": {
     "type": "git",
@@ -24,29 +19,22 @@
     "url": "https://github.com/Tutrox/PihkalaToday/issues"
   },
   "homepage": "https://github.com/Tutrox/PihkalaToday#readme",
-  "dependencies": {
-    "autoprefixer": "^8.1.0",
-    "babel-core": "^6.26.0",
-    "babel-plugin-external-helpers": "^6.22.0",
-    "babel-preset-env": "^1.6.1",
-    "bootstrap": "^4.0.0",
-    "clean-css-cli": "^4.1.11",
-    "date-fns": "^1.29.0",
-    "http-server": "^0.11.1",
-    "jquery": "^3.3.1",
-    "lodash-es": "^4.17.7",
-    "node-sass": "^4.7.2",
-    "npm-run-all": "^4.1.2",
-    "postcss-cli": "^5.0.0",
-    "rollup": "^0.67.0",
-    "rollup-plugin-babel": "^3.0.3",
-    "rollup-plugin-commonjs": "^9.0.0",
-    "rollup-plugin-eslint": "^4.0.0",
-    "rollup-plugin-node-resolve": "^4.0.0",
-    "rollup-plugin-uglify": "^3.0.0",
-    "stylelint": "^9.1.1",
-    "stylelint-config-recommended-scss": "^3.1.0",
-    "stylelint-config-standard": "^18.2.0",
-    "stylelint-scss": "^2.5.0"
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@rollup/plugin-babel": "^5.2.2",
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-eslint": "^8.0.1",
+    "@rollup/plugin-node-resolve": "^11.1.0",
+    "bootstrap": "4.6.0",
+    "date-fns": "^2.16.1",
+    "jquery": "^3.5.1",
+    "lodash-es": "^4.17.20",
+    "npm-run-all": "^4.1.5",
+    "rollup": "^2.38.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "scss-powertools": "^2.0.0",
+    "serve": "^11.3.2"
   }
 }
