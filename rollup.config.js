@@ -1,8 +1,8 @@
-import resolve from 'rollup-plugin-node-resolve';
-import commonjs from 'rollup-plugin-commonjs';
-import babel from 'rollup-plugin-babel';
-import eslint from 'rollup-plugin-eslint';
-import uglify from 'rollup-plugin-uglify';
+import {nodeResolve} from '@rollup/plugin-node-resolve';
+import commonjs from '@rollup/plugin-commonjs';
+import babel from '@rollup/plugin-babel';
+import eslint from '@rollup/plugin-eslint';
+import {terser} from 'rollup-plugin-terser';
 
 export default {
   input: "app/today.js",
@@ -11,10 +11,16 @@ export default {
     format: "es"
   },
   plugins: [
-    resolve(),
+    nodeResolve(),
+    eslint({
+      throwOnError: true,
+      throwOnWarning: true
+    }),
     commonjs(),
-    babel({exclude: "node_modules/**"}),
-    eslint({throwOnError: true, throwOnWarning: true}),
-    uglify()
+    babel({
+      exclude: "node_modules/**",
+      babelHelpers: "bundled"
+    }),
+    terser()
   ]
 };
