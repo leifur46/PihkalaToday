@@ -1,4 +1,4 @@
-export var names = {
+export const names = {
   "2.1": [
     {data: "Aapeli; Gerhard, Gert"}
   ],

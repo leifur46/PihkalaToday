@@ -1,4 +1,4 @@
-export var weather = {
+export const weather = {
   "6.1": [
     {data: "Loppiaisena on puoli talven lunta satanut (Töysä)"}
   ],

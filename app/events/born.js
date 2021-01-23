@@ -1,4 +1,4 @@
-export var born = {
+export const born = {
   "1.1": [
     {year: 1484, data: "Ulbricht Zwingli"}
   ],

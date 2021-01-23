@@ -1,4 +1,4 @@
-export var actions = {
+export const actions = {
   "1.1": [
     {year: 2002, data: "EU siirtyi uuden valuutan, Euron, käyttöön. Ulkopuolelle jättäytyivät Ruotsi, Tanska, Iso-Britannia"},
     {year: 1785, data: "The Times Lontoossa alkoi ilmestyä"}

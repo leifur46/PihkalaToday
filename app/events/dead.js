@@ -1,4 +1,4 @@
-export var dead = {
+export const dead = {
   "10.1": [
     {year: 1917, data: "Buffalo Bill, oik. William Cody"}
   ],
