@@ -8,7 +8,7 @@ import {format, addDays, subDays} from "date-fns";
 import {forEach, flattenDeep, isUndefined} from "lodash-es";
 
 let date = new Date();
-let dateFormatted = format(date, "d.M");
+let dateFormatted = format(date, "d.M.");
 
 function makeList(eventList) {
   let listItems = "";
@@ -32,7 +32,7 @@ function $data() {
   $info(weather, "Sää");
   
   $("[data-date]").clearQueue().fadeOut(125, function() {
-    $(this).text(`${dateFormatted}.`);
+    $(this).text(dateFormatted);
   }).delay(250).fadeIn();
 }
 
@@ -50,7 +50,7 @@ $(function() {
       date = new Date();
     }
 
-    dateFormatted = format(date, "d.M");
+    dateFormatted = format(date, "d.M.");
 
     $("[data-today]").clearQueue().fadeOut(250, function() {
       $(this).empty();
