@@ -4,10 +4,10 @@ import {dead} from "./events/dead";
 import {names} from "./events/names";
 import {weather} from "./events/weather";
 import $ from "jquery";
-import {format, addDays, subDays} from "date-fns";
+import {setYear, format, addDays, subDays} from "date-fns";
 import {forEach, flattenDeep, isUndefined} from "lodash-es";
 
-let date = new Date();
+let date = setYear(new Date(), 2020);
 let dateFormatted = format(date, "d.M.");
 
 function makeList(eventList) {
@@ -47,7 +47,7 @@ $(function() {
     } else if ($(this).data("goto") == "next") {
       date = addDays(date, 1);
     } else{
-      date = new Date();
+      date = setYear(new Date(), 2020);
     }
 
     dateFormatted = format(date, "d.M.");
