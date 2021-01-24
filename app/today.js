@@ -3,6 +3,7 @@ import {born} from "./events/born";
 import {dead} from "./events/dead";
 import {names} from "./events/names";
 import {weather} from "./events/weather";
+
 import $ from "jquery";
 import {setYear, format, addDays, subDays} from "date-fns";
 import {forEach, flattenDeep, isUndefined} from "lodash-es";
@@ -42,11 +43,11 @@ $(function() {
   }).delay(250).fadeIn();
 
   $("[data-goto]").click(function() {
-    if ($(this).data("goto") == "prev") {
+    if ($(this).data("goto") === "prev") {
       date = subDays(date, 1);
-    } else if ($(this).data("goto") == "next") {
+    } else if ($(this).data("goto") === "next") {
       date = addDays(date, 1);
-    } else{
+    } else {
       date = setYear(new Date(), 2020);
     }
 
