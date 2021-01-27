@@ -60,7 +60,8 @@ export const actions = {
     {year: 1951, data: "Sotatila Jugoslavian ja Itävallan välillä lakkasi"}
   ],
   "20.1.": [
-    {year: 1966, data: "Monte Carlon rallin nopeimmat ajajat Timo Mäkinen ja Rauno Aaltonen diskattiin virheellisten valojen takia"}
+    {year: 1966, data: "Monte Carlon rallin nopeimmat ajajat Timo Mäkinen ja Rauno Aaltonen diskattiin virheellisten valojen takia"},
+    {year: 2021, data: "Joe Biden vannoi USA:n presidenttivalan"}
   ],
   "21.1.": [
     {year: 1911, data: "Ensimmäinen Monte Carlon ralli alkaa"}
