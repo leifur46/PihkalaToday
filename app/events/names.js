@@ -99,7 +99,7 @@ export const names = {
     {data: "Valo; Hugo"}
   ],
   "4.2.": [
-    {data: "Armi, Ronja; Marianne"}
+    {data: "Armi, Ronja; My, Mio"}
   ],
   "5.2.": [
     {data: "Asser; Sture"}
@@ -111,7 +111,7 @@ export const names = {
     {data: "Riku, Rikhard, Dick"}
   ],
   "8.2.": [
-    {data: "Laina; Rigmor"}
+    {data: "Laina; Moa, Rigmor"}
   ],
   "9.2.": [
     {data: "Raija, Raisa; Bodil"}
@@ -162,7 +162,7 @@ export const names = {
     {data: "Matti, Matias, Mats, Mattias"}
   ],
   "25.2.": [
-    {data: "Tuija, Tuire; Jessika"}
+    {data: "Tuija, Tuira; Jessica, Vanessa"}
   ],
   "26.2.": [
     {data: "Nestori; Ingvar, Ingvald"}
@@ -183,7 +183,7 @@ export const names = {
     {data: "Kauko; Torbjörn"}
   ],
   "4.3.": [
-    {data: "Ari, Arsi, Atro; Atle"}
+    {data: "Ari, Arsi, Atro; Atle, Adrian"}
   ],
   "5.3.": [
     {data: "Laila, Leila"}
@@ -213,7 +213,7 @@ export const names = {
     {data: "Erno, Tarvo, Ernesti; Ernst"}
   ],
   "14.3.": [
-    {data: "Matilda, Tilda"}
+    {data: "Matilda, Tilda, Tilde"}
   ],
   "15.3.": [
     {data: "Risto; Kristoffer"}
@@ -225,7 +225,7 @@ export const names = {
     {data: "Kerttu, Kerttuli; Gertrud, Trude"}
   ],
   "18.3.": [
-    {data: "Eetu, Edvard"}
+    {data: "Eetu, Edvard, Eddie"}
   ],
   "19.3.": [
     {data: "Jooseppi, Juuso, Joosef, Josefiina; Josef, Josefina"}
