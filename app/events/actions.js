@@ -4,20 +4,20 @@ export const actions = {
     {year: 1785, data: "The Times Lontoossa alkoi ilmestyä"}
   ],
   "2.1.": [
-    {year: 1959, data: "lähti Luna 1 matkalleen ensimmäisena kuun ohi"},
+    {year: 1959, data: "lähti Luna 1 matkalleen ensimmäisenä kuun ohi"},
     {year: 1954, data: "Paavi varoitti Italian kansaa television vaaroista perheelle"}
   ],
   "3.1.": [
     {year: 1971, data: "arvottiin ensimmäisen lottokierroksen oikea rivi"}
   ],
   "4.1.": [
-    {year: 1961, data: "päättyi maailman pisin tunnettu lakko Kööpenhaminassa kestettyääan 33 vuotta (parturiapulaiset)"}
+    {year: 1961, data: "päättyi maailman pisin tunnettu lakko Kööpenhaminassa kestettyään 33 vuotta (parturiapulaiset)"}
   ],
   "5.1.": [
     {year: 1919, data: "perustettiin Saksan kansallissosialistinen puolue"}
   ],
   "6.1.": [
-    {year: 1838, data: "Samuel Morse esitteli lennätimensä"}
+    {year: 1838, data: "Samuel Morse esitteli lennättimensä"}
   ],
   "7.1.": [
     {year: 1992, data: "Venäjällä vietettiin joulua juhlapäivänä ensimmäistä kertaa yli 70 vuoteen"}
@@ -51,7 +51,7 @@ export const actions = {
     {year: 1908, data: "partioliikkeen lehden Scouting for Boys ensimmäinen numero ilmestyi"}
   ],
   "17.1.": [
-    {year: 1940, data: "mitattin Hyvinkäällä -43.1°C"}
+    {year: 1940, data: "mitattiin Hyvinkäällä -43.1°C"}
   ],
   "18.1.": [
     {year: 1989, data: "Viron parlamentti hyväksyi lain, jolla viron kielestä tehtiin tasavallan ainoa virallinen kieli - ennenkuulumatonta Neuvostoliitossa!"}
@@ -77,7 +77,7 @@ export const actions = {
     {year: 1935, data: "Ensimmäiset oluttölkit tulivat myyntiin, USA:n Virginiassa"}
   ],
   "25.1.": [
-    {year: 1956, data: "Porkkala palutui Suomelle"}
+    {year: 1956, data: "Porkkala palautui Suomelle"}
   ],
   "26.1.": [
     {year: 1982, data: "Tri Mauno Koivisto valittiin tasavallan presidentiksi saaden 167 ääntä 301 äänestä."}
@@ -165,7 +165,7 @@ export const actions = {
     {year: 1630, data: "Intiaanit esittivät popcornin englantilaisille siirtolaisille"}
   ],
   "23.2.": [
-    {year: 1922, data: "Suomalaiset Niku ja Collin ottivat kaksoisvoiton Holmenkollenin 50km:n kilpailussa"}
+    {year: 1922, data: "Suomalaiset Niku ja Collin ottivat kaksoisvoiton Holmenkollenin 50 km:n kilpailussa"}
   ],
   "24.2.": [
     {year: 1993, data: "Kuubassa ensimmäiset suorat, salaiset vaalit yli 30 vuoteen"}
@@ -180,7 +180,7 @@ export const actions = {
     {year: 1933, data: "tuhopoltettiin Saksan valtiopäivätalo Berliinissä"}
   ],
   "28.2.": [
-    {year: 1910, data: "Suomen 1. autokilpailut Viipurissa Papulanlahden jäällä; voittajan aika 10km:n matkalla 17 minuuttia 34 sekuntia"}
+    {year: 1910, data: "Suomen 1. autokilpailut Viipurissa Papulanlahden jäällä; voittajan aika 10 km:n matkalla 17 minuuttia 34 sekuntia"}
   ],
   "29.2.": [
     {year: 1932, data: "Ilta-Sanomien ensimmäinen numero"},
@@ -190,7 +190,7 @@ export const actions = {
     {year: 1971, data: "Ensimmäiset oluttölkit myyntiin Suomessa. Purkissa oli teksti: \"Suojele ympäristöä - huolehdi tyhjästä tölkistä\""}
   ],
   "2.3.": [
-    {year: 1997, data: "Mika Myllylä voitti MM-hiihdon 50km:n matkan 1. suomalainen 27 vuoteen"}
+    {year: 1997, data: "Mika Myllylä voitti MM-hiihdon 50 km:n matkan 1. suomalainen 27 vuoteen"}
   ],
   "3.3.": [
     {year: 1875, data: "Ensimmäinen järjestetty jääkiekko-ottelu (Montreal)"}
@@ -217,7 +217,7 @@ export const actions = {
     {year: 1910, data: "Kiina lakkauttaa orjuuden ja kieltää ihmiskaupan"}
   ],
   "11.3.": [
-    {year: 1950, data: "Puola ilmoitti karkoittavansa 180 000 saksalaista"},
+    {year: 1950, data: "Puola ilmoitti karkottavansa 180 000 saksalaista"},
     {year: 2011, data: "Tsunami aiheuttaa ydinvoimalaonnettomuuden Fukushimassa Japanissa"}
   ],
   "12.3.": [
@@ -235,7 +235,7 @@ export const actions = {
     {year: 1957, data: "Kuurilan junaonnettomuus Toijalan ja Hämeenlinnan välillä vaati 26 kuolonuhria"}
   ],
   "16.3.": [
-    {year: 1925, data: "Korkein Oikeus määrää Suomen sosialistisen Työväenpuolueen lakkautettavaksi"}
+    {year: 1925, data: "Korkein oikeus määrää Suomen sosialistisen Työväenpuolueen lakkautettavaksi"}
   ],
   "17.3.": [
     {year: 1802, data: "rokotettiin Suomessa ensimmäisen kerran (isorokkoa vastaan)"}
@@ -245,7 +245,7 @@ export const actions = {
     {year: 1928, data: "Viipurin Reipas voitti ensimmäisen Suomen jääkiekkomestaruuden"}
   ],
   "19.3.": [
-    {year: 1850, data: "Ruhtinas Mensckikovin aloitteesta kielletään melkein kaiken suomenkielisen kirjallisuuden julkaiseminen - uskonnolliset ja taloudellisesti hyödylliset julkaisut  olivat poikkeuksia"}
+    {year: 1850, data: "Ruhtinas Mensckikovin aloitteesta kielletään melkein kaiken suomenkielisen kirjallisuuden julkaiseminen - uskonnolliset ja taloudellisesti hyödylliset julkaisut olivat poikkeuksia"}
   ],
   "20.3.": [
     {year: 1924, data: "aloitti Aero Oy ensimmäisen lentoreittinsä: Helsinki-Tallinna"}
@@ -282,7 +282,7 @@ export const actions = {
     {year: 1867, data: "Venäjä myi Alaskan USA:lle 7,2 miljoonan dollarin hintaan"}
   ],
   "31.3.": [
-    {year: 1914, data: "Kreivi Zeppelinin ilmalaiva saavuttaa uden korkeus-ennätyksen: 3065 metriä"}
+    {year: 1914, data: "Kreivi Zeppelinin ilmalaiva saavuttaa uuden korkeusennätyksen: 3065 metriä"}
   ],
   "1.4.": [
     {year: 1971, data: "aloittivat kunnalliset lappuliisat työnsä (Tampere, Oulu, Pori)"}
@@ -304,7 +304,7 @@ export const actions = {
     {year: 1896, data: "avattiin Ateenassa 1. nykyaikaiset Olympialaiset"}
   ],
   "7.4.": [
-    {year: 1815, data: "Indonesiassa oleva Tamboratulivuori oli 5.6 lähtien syössyt sisuksistaan noin 152km³ ainetta"}
+    {year: 1815, data: "Indonesiassa oleva Tamboratulivuori oli 5.6. lähtien syössyt sisuksistaan noin 152 km³ ainetta"}
   ],
   "8.4.": [
     {year: 1954, data: "Ensimmäinen 3-ulotteinen elokuva (\"Man in the Dark\")"}
@@ -404,7 +404,7 @@ export const actions = {
   ],
   "9.5.": [
     {year: 1837, data: "aloitettiin säännöllinen höyrylaivaliikenne Ruotsista Suomeen"},
-    {year: 1950, data: "Ranskan ulkomisteri ehdotti yhtynyttä Eurooppaa"}
+    {year: 1950, data: "Ranskan ulkoministeri ehdotti yhtynyttä Eurooppaa"}
   ],
   "10.5.": [
     {year: 1941, data: "Rudolf Hess lensi Skotlantiin käynnistääkseen rauhanneuvottelut"}
@@ -469,7 +469,7 @@ export const actions = {
     {year: 1918, data: "Eduskunta hyväksyi lakiehdotuksen Suomen lipusta"}
   ],
   "30.5.": [
-    {year: 1911, data: "Indianapoliksessa ensimmäiset 500:n mailin kilpa-ajot autoille"}
+    {year: 1911, data: "Indianapoliksessa ensimmäiset 500 mailin kilpa-ajot autoille"}
   ],
   "31.5.": [
     {year: 1879, data: "otettiin käyttöön Werner von Siemensin sähkörautatie Berliinissä"}
@@ -505,7 +505,7 @@ export const actions = {
     {year: 1944, data: "Neuvostojoukkojen suurhyökkäys Kannaksella"}
   ],
   "11.6.": [
-    {year: 1975, data: "Englantilainen Peter Dowdeswell joi kilpailussa 2 tuoppia (1,14l) olutta 2,3 sekunnissa"}
+    {year: 1975, data: "Englantilainen Peter Dowdeswell joi kilpailussa 2 tuoppia (1,14 l) olutta 2,3 sekunnissa"}
   ],
   "12.6.": [
     {year: 1938, data: "Helsingin stadion vihittiin käyttöönsä"}
@@ -520,7 +520,7 @@ export const actions = {
     {year: 1969, data: "Iranilainen tuomioistuin langetti kahdelle huijarille 7109 vuoden vankeusrangaistuksen"}
   ],
   "16.6.": [
-    {year: 1950, data: "Suomi maksoi USAlle ensimmäisen maailmansodan aikaista velkaansa 159.619$"}
+    {year: 1950, data: "Suomi maksoi USA:lle ensimmäisen maailmansodan aikaista velkaansa 159 619 $"}
   ],
   "17.6.": [
     {year: 1953, data: "Kansannousu DDR:n Itä-Berliinissä"}
@@ -529,7 +529,7 @@ export const actions = {
     {year: 1815, data: "Waterloon taistelu - Napoleonin lopullinen tappio"}
   ],
   "19.6.": [
-    {year: 1950, data: "Hallituksen esitys tuloveron korottamisesta 50%:iin hyväksyttiin"}
+    {year: 1950, data: "Hallituksen esitys tuloveron korottamisesta 50 %:iin hyväksyttiin"}
   ],
   "20.6.": [
     {year: 1972, data: "USA keskeytti Hanoin pommitukset Neuvostoliiton presidentin Vietnamvierailun ajaksi"}
@@ -708,10 +708,10 @@ export const actions = {
     {year: 1872, data: "Ensimmäinen postimyyntiluettelo ilmestyi (USA)"}
   ],
   "19.8.": [
-    {year: 1885, data: "1. nyrkkeilyootelu uusin säännöin - m.m hanskat ja 3min. erät taukoineen"}
+    {year: 1885, data: "1. nyrkkeilyottelu uusin säännöin - mm. hanskat ja 3 min. erät taukoineen"}
   ],
   "20.8.": [
-    {year: 1968, data: "Neuvostojoukot hyökkäsivät Tsekkoslovakiaan"}
+    {year: 1968, data: "Neuvostojoukot hyökkäsivät Tšekkoslovakiaan"}
   ],
   "21.8.": [
     {year: 1913, data: "Kansainvälinen yleisurheiluliitto IAAF perustettiin"}
@@ -735,10 +735,10 @@ export const actions = {
     {year: 1912, data: "julkaistiin \"Tarzan of the Apes\""}
   ],
   "28.8.": [
-    {year: 1890, data: "Voimakas myrsky kaatoi m.m Helsingin Kaisaniemessä noin 1000 puuta"}
+    {year: 1890, data: "Voimakas myrsky kaatoi mm. Helsingin Kaisaniemessä noin 1000 puuta"}
   ],
   "29.8.": [
-    {year: 1918, data: "alkoi Moskovassa kokous jossa perustettiin Suomen kommunistinen puolue"}
+    {year: 1918, data: "alkoi Moskovassa kokous, jossa perustettiin Suomen kommunistinen puolue"}
   ],
   "30.8.": [
     {year: 1941, data: "alkoi maailman tuhoisin piiritys: Leningrad oli 880 päivää piiritetty"}
@@ -760,7 +760,7 @@ export const actions = {
     {year: 1867, data: "Epätavallisen kova halla tuhoaa viljasadon; seurasi nälkävuosi, jolloin väestö väheni noin 100 000 henkilöllä"}
   ],
   "5.9.": [
-    {year: 1929, data: "Ranskalainen Aristiede Briand ehdottaa Euroopan Yhdsyvaltojen perustamista"}
+    {year: 1929, data: "Ranskalainen Aristiede Briand ehdottaa Euroopan Yhdysvaltojen perustamista"}
   ],
   "6.9.": [
     {year: 1776, data: "Ensimmäinen sukellusvenehyökkäys"}
@@ -838,7 +838,7 @@ export const actions = {
     {year: 1965, data: "Kiina ilmoitti, että \"Voimainkoitos USA:n ja Kiinan välillä olisi hyödyllinen näyte maailmalle"}
   ],
   "30.9.": [
-    {year: 1989, data: "Länsi-Saksan Prahan suurlähetystön alueelle telttoihin majoittuneet 3500 itä-saksalaista saivat luvan siirtyä länteen"}
+    {year: 1989, data: "Länsi-Saksan Prahan suurlähetystön alueelle telttoihin majoittuneet 3500 itäsaksalaista saivat luvan siirtyä länteen"}
   ],
   "1.10.": [
     {year: 1931, data: "Naiset Espanjassa saavat äänioikeuden"},
@@ -859,13 +859,13 @@ export const actions = {
   ],
   "6.10.": [
     {year: 1903, data: "Saksalainen juna ylitti ensimmäisenä nopeuden 200 km/h"},
-    {year: 1866, data: "Luultavasti maailman 1. junaryöstö, saalis 13.000$"}
+    {year: 1866, data: "Luultavasti maailman 1. junaryöstö, saalis 13 000 $"}
   ],
   "7.10.": [
     {year: 1949, data: "Saksan Demokraattinen Tasavalta (DDR) perustetaan"}
   ],
   "8.10.": [
-    {year: 1962, data: "Vaaleissa Pohjois-Koreassa oli äänestysprosentti 100%, joista 100% äänesti Työväenpuoluetta"}
+    {year: 1962, data: "Vaaleissa Pohjois-Koreassa oli äänestysprosentti 100 %, joista 100 % äänesti Työväenpuoluetta"}
   ],
   "9.10.": [
     {year: 1918, data: "Hessenin prinssi Friedrich Karl valitaan Suomen kuninkaaksi: Wäinö I"}
@@ -875,7 +875,7 @@ export const actions = {
   ],
   "11.10.": [
     {year: 1928, data: "Ilmalaiva LZ 127 Graf Zeppelin aloitti lentonsa Saksasta Yhdysvaltoihin"},
-    {year: 2002, data: "Vantaalainen opiskeija räjäyti pommin Myyrmäen ostoskeskuksessa - 7 kuoli, 80 loukaantui"}
+    {year: 2002, data: "Vantaalainen opiskelija räjäytti pommin Myyrmäen ostoskeskuksessa - 7 kuoli, 80 loukkaantui"}
   ],
   "12.10.": [
     {year: 1931, data: "Suomen Pankki lopetti setelien lunastamisen kullalla"}
@@ -889,7 +889,7 @@ export const actions = {
   ],
   "15.10.": [
     {year: 1917, data: "Tanssijatar Mata Hari teloitettiin saksalaisena vakoojana"},
-    {year: 2002, data: "Irakissa äänestettiin Saddam Husseinin presidenttiyden jatkamisesta. 100% äänioikeutetuista äänesti, 100% äänesti presidentin puolesta"}
+    {year: 2002, data: "Irakissa äänestettiin Saddam Husseinin presidenttiyden jatkamisesta. 100 % äänioikeutetuista äänesti, 100 % äänesti presidentin puolesta"}
   ],
   "16.10.": [
     {year: 1904, data: "Rata Iisalmesta Kajaaniin avattiin liikenteelle"}
@@ -911,7 +911,7 @@ export const actions = {
   ],
   "22.10.": [
     {year: 1911, data: "Ensimmäinen Suomi-Ruotsi jalkapallon maaottelu. Ruotsi voitti 5-2"},
-    {year: 1797, data: "Jacques Garniér suoritti ensimmäisen todellisen laskuvarjohypyn, ilmapallosta 700 m korkeudesa"}
+    {year: 1797, data: "Jacques Garniér suoritti ensimmäisen todellisen laskuvarjohypyn, ilmapallosta 700 m korkeudessa"}
   ],
   "23.10.": [
     {year: 1965, data: "Uutistoimisto Tass ilmoittaa television keksityn jo 1920-luvulla Neuvostoliiton Uzbekistanissa"}
@@ -976,7 +976,7 @@ export const actions = {
   ],
   "12.11.": [
     {year: 1991, data: "Indonesian armeijan sotilaat tulittivat hautajaissaattuetta Itä-Timorilla, noin 50 kuollutta"},
-    {year: 1930, data: "Neuvostiliiton viimeinen työtön sai vakituisen työpaikan"}
+    {year: 1930, data: "Neuvostoliiton viimeinen työtön sai vakituisen työpaikan"}
   ],
   "13.11.": [
     {year: 1940, data: "Willys Motor Co koeajoi ensimmäisen ns. Jeepin"}
@@ -1042,7 +1042,7 @@ export const actions = {
   ],
   "3.12.": [
     {year: 1954, data: "Väinö Linnan \"Tuntematon sotilas\" ilmestyy. HS:n arvostelu teilasi täysin teoksen"},
-    {year: 1967, data: "Ensimmäinen onnistunut ihmisen sydämensiirto ( Dr. Christian Barnard)"}
+    {year: 1967, data: "Ensimmäinen onnistunut ihmisen sydämensiirto (Dr. Christian Barnard)"}
   ],
   "4.12.": [
     {year: 1915, data: "Georgian osavaltio tunnusti rasistisen Ku Klux Klan-salajärjestön"},
@@ -1098,10 +1098,10 @@ export const actions = {
   "21.12.": [
     {year: 1939, data: "Neuvostoarmeijan tavoite vallata Helsinki"},
     {year: 1991, data: "Neuvostoliitto lakkasi olemasta"},
-    {year: 1913, data: "julkaistiin 1. ristisanatehtävä New York Worldissä"}
+    {year: 1913, data: "julkaistiin 1. ristisanatehtävä New York Worldissa"}
   ],
   "22.12.": [
-    {year: 1917, data: "USA:n oikeusministeri karkoitti 250 työväenjohtajaa ja anarkistia Neuvostoliittoon"}
+    {year: 1917, data: "USA:n oikeusministeri karkotti 250 työväenjohtajaa ja anarkistia Neuvostoliittoon"}
   ],
   "23.12.": [
     {year: 1966, data: "Kiina väitti Neuvostoliiton avustavan Pohjois-Vietnamia vanhanaikaisilla ja käyttökelvottomilla aseilla"}

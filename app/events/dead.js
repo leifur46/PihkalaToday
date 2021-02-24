@@ -33,7 +33,7 @@ export const dead = {
     {year: 1945, data: "Norjan \"johtaja\" Vidkun Quisling teloitetaan"}
   ],
   "2.11.": [
-    {year: 1950, data: "George Bernhard Shaw, engl.kirjailija, mm. \"Pygmalion\" joka oli pohjana musikaalille \"My fair Lady\""}
+    {year: 1950, data: "George Bernhard Shaw, englantilainen kirjailija, mm. \"Pygmalion\" joka oli pohjana musikaalille \"My fair Lady\""}
   ],
   "5.12.": [
     {year: 2013, data: "Etelä-Afrikan 1. musta presidentti Nelson Mandela"}
