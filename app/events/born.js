@@ -73,7 +73,7 @@ export const born = {
     {year: 1756, data: "Wolfgang Amadeus Mozart"}
   ],
   "28.1.": [
-    {year: 1865, data: "K.J.Ståhlberg, tasavallan presidenti 1919-1925"}
+    {year: 1865, data: "K.J. Ståhlberg, tasavallan presidentti 1919-1925"}
   ],
   "29.1.": [
     {year: 1900, data: "Ella Eronen, näyttelijä"}
@@ -121,7 +121,7 @@ export const born = {
     {year: 1809, data: "Abraham Lincoln, USA:n 16 presidentti"}
   ],
   "13.2.": [
-    {year: 1903, data: "Georges Simenon, kirjailija mm. \"komissario Maigret\""}
+    {year: 1903, data: "Georges Simenon, kirjailija mm. \"komisario Maigret\""}
   ],
   "14.2.": [
     {year: 1840, data: "Claude Monet, taitelija"}
@@ -184,7 +184,7 @@ export const born = {
     {year: 1924, data: "Marlon Brando, elokuvatähti"}
   ],
   "6.3.": [
-    {year: 1883, data: "V.P.Nenonen, tykistökenraali"}
+    {year: 1883, data: "V.P. Nenonen, tykistökenraali"}
   ],
   "7.3.": [
     {year: 1904, data: "Reinhard Heydrich, kansallissosialistinen poliitikko"}
@@ -247,7 +247,7 @@ export const born = {
     {year: 1920, data: "Kelpo Gröndahl, kaksi painin ok-mitalia 1948,1952"}
   ],
   "30.3.": [
-    {year: 1853, data: "Vincent van Gogh, alankomaal.taidemaalari"}
+    {year: 1853, data: "Vincent van Gogh, alankomaalainen taidemaalari"}
   ],
   "31.3.": [
     {year: 1757, data: "Gustaf Mauritz Armfelt"}
@@ -256,7 +256,7 @@ export const born = {
     {year: 1815, data: "Otto von Bismarck"}
   ],
   "2.4.": [
-    {year: 1805, data: "H.C.Andersen, Tanskan \"satusetä\""}
+    {year: 1805, data: "H.C. Andersen, Tanskan \"satusetä\""}
   ],
   "4.4.": [
     {year: 1957, data: "Aki Kaurismäki, elokuvaohjaaja"}
@@ -324,7 +324,7 @@ export const born = {
     {year: 1918, data: "Ella Fitzgerald, laulajatar"}
   ],
   "26.4.": [
-    {year: 1865, data: "Axel Gallén-Kallela, taidemaaalari"}
+    {year: 1865, data: "Axel Gallén-Kallela, taidemaalari"}
   ],
   "27.4.": [
     {year: 1791, data: "Samuel Morse"}
@@ -333,7 +333,7 @@ export const born = {
     {year: 1934, data: "Anssi Kukkonen, urheiluselostaja"}
   ],
   "1.5.": [
-    {year: 1907, data: "Volmari Iso-Hollo,juoksija, 4 olympialaismitalia 1932, 1936"}
+    {year: 1907, data: "Volmari Iso-Hollo, juoksija, 4 olympialaismitalia 1932, 1936"}
   ],
   "2.5.": [
     {year: 1892, data: "Paroni Manfred von Richthofen, saksalainen lentäjä-ässä"}
@@ -348,7 +348,7 @@ export const born = {
     {year: 1895, data: "Rodolpho Alfonzo Rafaello Pietro Filiberto Guglieimi Di Valentina D'Antonguolla (eli Rudolph Valentino), näyttelijä"}
   ],
   "7.5.": [
-    {year: 1840, data: "Pjotr Tsaikovski"}
+    {year: 1840, data: "Pjotr Tšaikovski"}
   ],
   "8.5.": [
     {year: 1828, data: "Henri Dunant (Punainen Risti)"}
@@ -557,7 +557,7 @@ export const born = {
     {year: 1918, data: "Nelson Mandela, mustien johtaja Etelä-Afrikassa"}
   ],
   "19.7.": [
-    {year: 1843, data: "Edgar Degas, ranskalainen taiteilja - impressionisti"}
+    {year: 1843, data: "Edgar Degas, ranskalainen taiteilija - impressionisti"}
   ],
   "20.7.": [
     {year: 1941, data: "teatteriohjaaja Kaisa Korhonen"}
@@ -614,7 +614,7 @@ export const born = {
     {year: 1919, data: "Kim Borg, laulaja (basso)"}
   ],
   "8.8.": [
-    {year: 1931, data: "Andy Warhol, amerikkalainen taiteilja"}
+    {year: 1931, data: "Andy Warhol, amerikkalainen taiteilija"}
   ],
   "9.8.": [
     {year: 1914, data: "Tove Jansson (\"muumiäiti\")"}
@@ -629,7 +629,7 @@ export const born = {
     {year: 1939, data: "George Hamilton, näyttelijä"}
   ],
   "13.8.": [
-    {year: 1860, data: "Annie Oakley, tark'ampuja."}
+    {year: 1860, data: "Annie Oakley, tarkk'ampuja."}
   ],
   "15.8.": [
     {year: 1769, data: "Napoleon Bonaparte"}
@@ -657,7 +657,7 @@ export const born = {
   ],
   "24.8.": [
     {year: 1937, data: "Marjatta Leppänen, viihdetaiteilija"},
-    {year: 1949, data: "Niinistö Sauli, presidentti. Syntynyt Salossa"}
+    {year: 1949, data: "Sauli Niinistö, presidentti. Syntynyt Salossa"}
   ],
   "25.8.": [
     {year: 1930, data: "Sean Connery, näyttelijä"}
@@ -687,7 +687,7 @@ export const born = {
     {year: 1900, data: "Urho Kekkonen, presidentti 1956-1982"}
   ],
   "4.9.": [
-    {year: 1768, data: "Francois de Chateaubriand, kirjailija, politikko"}
+    {year: 1768, data: "Francois de Chateaubriand, kirjailija, poliitikko"}
   ],
   "6.9.": [
     {year: 1970, data: "Anna Hanski"}
@@ -838,7 +838,7 @@ export const born = {
     {year: 1821, data: "Feodor Mihailovits Dostojevski"}
   ],
   "31.10.": [
-    {year: 1887, data: "Tsiang-Kai-Sek, kiinalainen politikko, Formosan presidentti"}
+    {year: 1887, data: "Tsiang-Kai-Sek, kiinalainen poliitikko, Formosan presidentti"}
   ],
   "1.11.": [
     {year: 1830, data: "Werner Holmberg, taiteilija"}
@@ -856,7 +856,7 @@ export const born = {
     {year: 1867, data: "Marya Sklodowska (Marie Curie)"}
   ],
   "8.11.": [
-    {year: 1656, data: "Edmund Halley, englantilainen tähtiteiteilijä"}
+    {year: 1656, data: "Edmund Halley, englantilainen tähtitieteilijä"}
   ],
   "9.11.": [
     {year: 1907, data: "Katharine Hepburn, näyttelijätär"}
@@ -881,7 +881,7 @@ export const born = {
     {year: 1891, data: "Erwin Rommel"}
   ],
   "17.11.": [
-    {year: 1925, data: "Rock Hudson, amer.elokuvanäyttelijä"}
+    {year: 1925, data: "Rock Hudson, amerikkalainen elokuvanäyttelijä"}
   ],
   "18.11.": [
     {year: 1901, data: "George Gallup, tilastotieteilijä"}
@@ -902,7 +902,7 @@ export const born = {
     {year: 1859, data: "William H. \"Billy The Kid\" Bonney (syntynyt Henry McCarty), lainsuojaton"}
   ],
   "24.11.": [
-    {year: 1864, data: "Henri Toulouse-Lautrec, ranskalainen taiteilja"}
+    {year: 1864, data: "Henri Toulouse-Lautrec, ranskalainen taiteilija"}
   ],
   "25.11.": [
     {year: 1923, data: "Mauno Henrik Koivisto, presidentti 1982-1994"}
@@ -993,7 +993,7 @@ export const born = {
     {year: 1642, data: "Sir Isaac Newton, englantilainen matemaatikko ja tiedemies"}
   ],
   "26.12.": [
-    {year: 1893, data: "Mao-Tse-Dong  (Mao-Tse-Tung)"}
+    {year: 1893, data: "Mao-Tse-Dong (Mao-Tse-Tung)"}
   ],
   "27.12.": [
     {year: 1901, data: "Marlene Dietrich, näyttelijätär"}

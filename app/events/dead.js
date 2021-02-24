@@ -15,7 +15,7 @@ export const dead = {
     {year: 1973, data: "Clas Thunberg, pikaluistelija, 6 ok-mitalia, lukuisia maailmanmestaruuksia 1923-1931"}
   ],
   "29.4.": [
-    {year: 1980, data: "Alfred Hitchcock, s.1899"}
+    {year: 1980, data: "Alfred Hitchcock, s. 1899"}
   ],
   "27.7.": [
     {year: 1984, data: "George Gallup, tilastotieteilijä"}
@@ -33,7 +33,7 @@ export const dead = {
     {year: 1945, data: "Norjan \"johtaja\" Vidkun Quisling teloitetaan"}
   ],
   "2.11.": [
-    {year: 1950, data: "George Bernhard Shaw, engl.kirjailija, mm. \"Pygmalion\" joka oli pohjana musikaalille \"My fair Lady\""}
+    {year: 1950, data: "George Bernhard Shaw, englantilainen kirjailija, mm. \"Pygmalion\" joka oli pohjana musikaalille \"My fair Lady\""}
   ],
   "5.12.": [
     {year: 2013, data: "Etelä-Afrikan 1. musta presidentti Nelson Mandela"}
