@@ -183,7 +183,8 @@ export const actions = {
     {year: 1910, data: "Suomen 1. autokilpailut Viipurissa Papulanlahden jäällä; voittajan aika 10km:n matkalla 17 minuuttia 34 sekuntia"}
   ],
   "29.2.": [
-    {year: 1932, data: "Ilta-Sanomien ensimmäinen numero"}
+    {year: 1932, data: "Ilta-Sanomien ensimmäinen numero"},
+    {year: 2020, data: "Lapissa todettiin covid19-infektio. Tämä Kiinasta lähtöisin oleva virus aiheutti maailmanlaajuisen pandemian"}
   ],
   "1.3.": [
     {year: 1971, data: "Ensimmäiset oluttölkit myyntiin Suomessa. Purkissa oli teksti: \"Suojele ympäristöä - huolehdi tyhjästä tölkistä\""}
@@ -840,7 +841,8 @@ export const actions = {
     {year: 1989, data: "Länsi-Saksan Prahan suurlähetystön alueelle telttoihin majoittuneet 3500 itä-saksalaista saivat luvan siirtyä länteen"}
   ],
   "1.10.": [
-    {year: 1931, data: "Naiset Espanjassa saavat äänioikeuden"}
+    {year: 1931, data: "Naiset Espanjassa saavat äänioikeuden"},
+    {year: 1792, data: "Kustaa III perusti Tampereen kaupungin"}
   ],
   "2.10.": [
     {year: 1911, data: "Ensimmäinen kotimainen oopperanäytäntö Helsingin Aleksanterinteatterissa (Leoncavallo: Pajazzo)"}
@@ -1056,7 +1058,7 @@ export const actions = {
     {year: 1941, data: "Japanin hyökkäys Pearl Harboriin; maailmansota laajeni"}
   ],
   "9.12.": [
-    {year: 1932, data: "Perustettiin TBK (Tammerfors Bollklubb). Tapparan edeltäjä"},
+    {year: 1932, data: "Perustettiin TBK (Tammerfors Bollklubb), jonka jääkiekkojaostosta perustettiin 1955 Tappara"},
     {year: 1904, data: "Suomen viimeiset säätyvaltiopäivät avattiin"}
   ],
   "10.12.": [
