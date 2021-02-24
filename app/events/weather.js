@@ -72,16 +72,16 @@ export const weather = {
     {data: "Vimmestänsä soffinpäivänä tulee päästä lehemät pihalleen, oli ilima minkälaanen hyvänsä (Lapua)"}
   ],
   "18.5.": [
-    {data: "Kun ennen Erkkiä ruis kortta kasvaa, niin sitä Helkan (31.5) halla haalistaa (Koijärvi)"}
+    {data: "Kun ennen Erkkiä ruis kortta kasvaa, niin sitä Helkan (31.5.) halla haalistaa (Koijärvi)"}
   ],
   "25.5.": [
-    {data: "Urpu suveksi sääntää, perttu (24.8) talveksi kääntää (Kuru)"}
+    {data: "Urpu suveksi sääntää, perttu (24.8.) talveksi kääntää (Kuru)"}
   ],
   "30.5.": [
     {data: "Pasilius jos kastelee viljat, niin tulevat pitkä-olkisia (Koivisto)"}
   ],
   "6.6.": [
-    {data: "Kustaa perunat maahan heittää, Matti (21.9) viimeiset ylös ottaa (Lapua)"}
+    {data: "Kustaa perunat maahan heittää, Matti (21.9.) viimeiset ylös ottaa (Lapua)"}
   ],
   "12.6.": [
     {data: "Eskolta pivo kiinni. Kylvötyöt siihen mennessä pitäisi saada tehdyksi (Muhos)"}
@@ -153,13 +153,13 @@ export const weather = {
     {data: "Marraskuun talvi ei kestä, mutta lokakuun ja joulunkun talvi kestävät (Räisälä)"}
   ],
   "19.11.": [
-    {data: "Liisan liukkaat, Kaisan (25.11) kaljamat (Kuru)"}
+    {data: "Liisan liukkaat, Kaisan (25.11.) kaljamat (Kuru)"}
   ],
   "25.11.": [
     {data: "Mitä ennen Kaisaa tuiskuten tulee, se vetenä aidan alitse menee (Saarijärvi)"}
   ],
   "30.11.": [
-    {data: "Antti turkin antaa, Urpo (25.5) sen orrelle kantaa (Kesälahti)"}
+    {data: "Antti turkin antaa, Urpo (25.5.) sen orrelle kantaa (Kesälahti)"}
   ],
   "2.12.": [
     {data: "Kun on joulukuussa kovat pakkaset, niin pakkanen kuolee pian pesäänsä (Alatornio)"}

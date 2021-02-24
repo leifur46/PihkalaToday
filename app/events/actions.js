@@ -51,7 +51,7 @@ export const actions = {
     {year: 1908, data: "partioliikkeen lehden Scouting for Boys ensimmäinen numero ilmestyi"}
   ],
   "17.1.": [
-    {year: 1940, data: "mitattiin Hyvinkäällä -43.1°C"}
+    {year: 1940, data: "mitattiin Hyvinkäällä -43,1 °C"}
   ],
   "18.1.": [
     {year: 1989, data: "Viron parlamentti hyväksyi lain, jolla viron kielestä tehtiin tasavallan ainoa virallinen kieli - ennenkuulumatonta Neuvostoliitossa!"}
@@ -67,7 +67,7 @@ export const actions = {
     {year: 1911, data: "Ensimmäinen Monte Carlon ralli alkaa"}
   ],
   "22.1.": [
-    {year: 1943, data: "Lämpötila kohosi Spearfishissä Dakotassa kahdessa minuutissa -20°C:sta +7,2°C:seen"}
+    {year: 1943, data: "Lämpötila kohosi Spearfishissä Dakotassa kahdessa minuutissa -20 °C:sta +7,2 °C:seen"}
   ],
   "23.1.": [
     {year: 1950, data: "Kiinan kansantasavalta tunnusti Ho-tsi-Minhin Vietnamin kommunistisen hallituksen"}
@@ -90,7 +90,7 @@ export const actions = {
     {year: 1918, data: "alkoi vapaussota"}
   ],
   "29.1.": [
-    {year: 1886, data: "Benz patentoi bensiinimoottorin. Sen teho oli jopa 0,85 hv/200rpm"}
+    {year: 1886, data: "Benz patentoi bensiinimoottorin. Sen teho oli jopa 0,85 hv/200 rpm"}
   ],
   "30.1.": [
     {year: 1933, data: "Adolf Hitleristä Saksan kansleri"}
@@ -184,7 +184,7 @@ export const actions = {
   ],
   "29.2.": [
     {year: 1932, data: "Ilta-Sanomien ensimmäinen numero"},
-    {year: 2020, data: "Lapissa todettiin covid19-infektio. Tämä Kiinasta lähtöisin oleva virus aiheutti maailmanlaajuisen pandemian"}
+    {year: 2020, data: "Lapissa todettiin covid-19-infektio. Tämä Kiinasta lähtöisin oleva virus aiheutti maailmanlaajuisen pandemian"}
   ],
   "1.3.": [
     {year: 1971, data: "Ensimmäiset oluttölkit myyntiin Suomessa. Purkissa oli teksti: \"Suojele ympäristöä - huolehdi tyhjästä tölkistä\""}
@@ -272,7 +272,7 @@ export const actions = {
     {year: 1933, data: "Japani erosi Kansainliitosta"}
   ],
   "28.3.": [
-    {year: 1933, data: "Kansallissosialistit julistavat juutalaisten omistamat liikkeet boikottiin 1.4 lähtien"},
+    {year: 1933, data: "Kansallissosialistit julistavat juutalaisten omistamat liikkeet boikottiin 1.4. lähtien"},
     {year: 1919, data: "Suomessa luovuttiin perunan säännöstelystä"}
   ],
   "29.3.": [
@@ -298,7 +298,7 @@ export const actions = {
   ],
   "5.4.": [
     {year: 1559, data: "kirjattu ensimmäinen maininta mustalaisista Suomessa"},
-    {year: 1932, data: "avattiin kieltolain jälkeen Alkon myymälät 5.4.32 klo 10 eli 543210"}
+    {year: 1932, data: "avattiin kieltolain jälkeen Alkon myymälät 5.4.1932 klo 10 eli 543210"}
   ],
   "6.4.": [
     {year: 1896, data: "avattiin Ateenassa 1. nykyaikaiset Olympialaiset"}
@@ -423,7 +423,7 @@ export const actions = {
   ],
   "15.5.": [
     {year: 1938, data: "Malmin lentokentän vihkiäiset"},
-    {year: 1942, data: "Päivätty asetus Saksassa kieltää juutalaisia pitämästä kotieläimiä, s.o koiria, kissoja, lintuja..."}
+    {year: 1942, data: "Päivätty asetus Saksassa kieltää juutalaisia pitämästä kotieläimiä, ts. koiria, kissoja, lintuja..."}
   ],
   "16.5.": [
     {year: 1907, data: "Senaatti lakkautti ohjesääntöisen prostituution"}
@@ -693,7 +693,7 @@ export const actions = {
     {year: 1961, data: "valmistui Berliinin muuri"}
   ],
   "14.8.": [
-    {year: 1945, data: "Japani antautui; 2. maailmansota päättyi (virallisesti 2.9)"}
+    {year: 1945, data: "Japani antautui; 2. maailmansota päättyi (virallisesti 2.9.)"}
   ],
   "15.8.": [
     {year: 1914, data: "Panaman kanava avattiin virallisesti"}

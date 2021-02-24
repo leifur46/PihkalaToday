@@ -15,7 +15,7 @@ export const dead = {
     {year: 1973, data: "Clas Thunberg, pikaluistelija, 6 ok-mitalia, lukuisia maailmanmestaruuksia 1923-1931"}
   ],
   "29.4.": [
-    {year: 1980, data: "Alfred Hitchcock, s.1899"}
+    {year: 1980, data: "Alfred Hitchcock, s. 1899"}
   ],
   "27.7.": [
     {year: 1984, data: "George Gallup, tilastotieteilijä"}
