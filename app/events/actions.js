@@ -193,7 +193,8 @@ export const actions = {
     {year: 1997, data: "Mika Myllylä voitti MM-hiihdon 50 km:n matkan 1. suomalainen 27 vuoteen"}
   ],
   "3.3.": [
-    {year: 1875, data: "Ensimmäinen järjestetty jääkiekko-ottelu (Montreal)"},{year: 1875, data: "Bizet'n ooppera Carmen wesitettiin ensimmäisen kerran Pariisissa"}
+    {year: 1875, data: "Ensimmäinen järjestetty jääkiekko-ottelu (Montreal)"},
+    {year: 1875, data: "Bizet'n ooppera Carmen esitettiin ensimmäisen kerran Pariisissa"}
   ],
   "4.3.": [
     {year: 1946, data: "Mannerheim erosi tasavallan presidentin virasta"}
