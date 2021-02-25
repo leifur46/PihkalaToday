@@ -166,7 +166,8 @@ export const born = {
     {year: 1915, data: "Olavi Virta, iskelmälaulaja"}
   ],
   "28.2.": [
-    {year: 1912, data: "Ruotsin prinssi Bertil (Kaarle XVI Kustaan setä)"},{year: 1920, data: " Maurice Ravel, säveltäjä, m.m Bolero"}
+    {year: 1912, data: "Ruotsin prinssi Bertil (Kaarle XVI Kustaan setä)"},
+    {year: 1920, data: "Maurice Ravel, säveltäjä, mm. Bolero"}
   ],
   "29.2.": [
     {year: 1860, data: "Herman Hollerith, reikäkortin keksijä"}
